@@ -43,7 +43,7 @@ Make sure
 ·        Take care to provide the correct name of the city to obtain accurate weather information.
 ·        In case of any errors during the retrieval of weather data, the tool will display an appropriate error message.
  
-Conclusion
+Conclusion and Use
 The Weather Forecast Command-Line Tool provides a simple and efficient way to access current weather information for a desired city. By leveraging the OpenWeatherMap API and Python, users can quickly obtain weather details such as description, temperature, and humidity. The tool's ease of use and functionality make it a valuable resource for weather enthusiasts and developers alike.
  
 
