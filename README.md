@@ -7,7 +7,7 @@ A Weather Forecast Command-Line Tool
 Idea
 The Weather Forecast Command-Line Tool is a Python-based utility that allows users to obtain the current weather forecast for a specific city. Using the OpenWeatherMap API, the tool provides real-time weather information such as the description of the weather, temperature, maximum temperature, minimum temperature, and wind status. This document provides an overview of the tool's functionality, implementation details, and instructions for usage.
  
-What does the code do?
+What does the code do???
 The Weather Forecast Command-Line Tool:
 ·        Accepts the name of a city as input.
 ·        Fetches weather data from the OpenWeatherMap API.
